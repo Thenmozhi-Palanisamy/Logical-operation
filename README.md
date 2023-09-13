@@ -87,7 +87,7 @@ void loop() {
       digitalWrite(13, bs3);
   } 
 }
-```
+````
 ## CIRCUIT DIAGRAM:
 
 ![image](https://github.com/Thenmozhi-Palanisamy/Logical-operation/assets/95198708/b772c4bb-b017-4116-8386-1a9f5e00bf6e)
